@@ -2,7 +2,7 @@
 
 ------
 
-This Repo contains notes learning Docker
+This Repo contains notes for learning Docker
 
 reference :https://docs.docker.com/
 
